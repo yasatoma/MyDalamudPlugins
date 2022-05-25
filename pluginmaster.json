@@ -10,7 +10,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/Icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
         "IsHide": false,
