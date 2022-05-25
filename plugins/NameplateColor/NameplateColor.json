@@ -6,9 +6,11 @@
   "Description": "Change Nameplate's color to favorite color per role, and hide FreeCompanyName.",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
-    "goats"
+    "nameplate",
+    "colors"
+  ],
+  "CategoryTags": [
+    "ui"
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
