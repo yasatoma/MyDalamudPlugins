@@ -2,7 +2,7 @@
   "Author": "yasatoma",
   "Name": "NameplateColor",
   "InternalName": "NameplateColor",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "0.0.0.2",
   "Description": "Change Nameplate's color to favorite color per role, and hide FreeCompanyName.",
   "ApplicableVersion": "any",
   "Tags": [
