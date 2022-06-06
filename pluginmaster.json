@@ -19,5 +19,26 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1653983164"
+    },
+    {
+        "Author": "yasatoma",
+        "Name": "PikuminMarker",
+        "Punchline": "Add Marker for Pikumin.",
+        "Description": "Add Marker for Pikumin.",
+        "InternalName": "PikuminMarker",
+        "AssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/yasatoma/PikuminMarker",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/Icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1654494857"
     }
 ]
