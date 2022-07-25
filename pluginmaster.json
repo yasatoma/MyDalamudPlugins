@@ -5,7 +5,7 @@
         "Punchline": "Nameplate Color Change.",
         "Description": "Change Nameplate's color to favorite color per role, and hide FreeCompanyName.",
         "InternalName": "NameplateColor",
-        "AssemblyVersion": "0.0.0.5",
+        "AssemblyVersion": "0.0.0.6",
         "RepoUrl": "https://github.com/yasatoma/NameplateColor",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1653983164"
+        "LastUpdate": "1658742623"
     },
     {
         "Author": "yasatoma",
@@ -26,7 +26,7 @@
         "Punchline": "Add Marker for Pikumin.",
         "Description": "Add Marker for Pikumin.",
         "InternalName": "PikuminMarker",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.0.0.2",
         "RepoUrl": "https://github.com/yasatoma/PikuminMarker",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
@@ -39,6 +39,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1654494857"
+        "LastUpdate": "1658742623"
     }
 ]
