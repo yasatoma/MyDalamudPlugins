@@ -8,7 +8,7 @@
         "AssemblyVersion": "0.0.0.6",
         "RepoUrl": "https://github.com/yasatoma/NameplateColor",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/Icon.png",
         "ImageUrls": [],
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1658742623"
+        "LastUpdate": "1661325285"
     },
     {
         "Author": "yasatoma",
@@ -29,7 +29,7 @@
         "AssemblyVersion": "0.0.0.2",
         "RepoUrl": "https://github.com/yasatoma/PikuminMarker",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/Icon.png",
         "ImageUrls": [],
@@ -39,6 +39,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1658742623"
+        "LastUpdate": "1661325285"
     }
 ]

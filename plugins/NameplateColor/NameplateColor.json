@@ -12,7 +12,7 @@
   "CategoryTags": [
     "ui"
   ],
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "Nameplate Color Change."
 }
