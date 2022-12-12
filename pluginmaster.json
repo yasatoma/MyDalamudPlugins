@@ -5,7 +5,7 @@
         "Punchline": "Nameplate Color Change.",
         "Description": "Change Nameplate's color to favorite color per role, and hide FreeCompanyName.",
         "InternalName": "NameplateColor",
-        "AssemblyVersion": "0.0.0.7",
+        "AssemblyVersion": "0.0.0.8",
         "RepoUrl": "https://github.com/yasatoma/NameplateColor",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661740277"
+        "LastUpdate": "1670813946"
     },
     {
         "Author": "yasatoma",
