@@ -4,7 +4,7 @@
   "InternalName": "PikuminMarker",
   "AssemblyVersion": "0.0.0.4",
   "Description": ".",
-  "ApplicableVersion": "any",
+  "ApplicableVersion": "2023.10.04.0000.0000",
   "Tags": [
     "marker",
     "colors"
