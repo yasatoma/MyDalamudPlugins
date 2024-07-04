@@ -40,23 +40,5 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1696400075"
-    },
-    {
-      "Author": "croizat",
-      "Name": "Something Need Doing (Expanded Edition)",
-      "Punchline": "Work work.",
-      "Description": "Now for more than crafting!",
-      "Tags": [],
-      "InternalName": "SomethingNeedDoing",
-      "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-      "DownloadCount": 1328,
-      "LastUpdate": 1696717737126,
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-      "AssemblyVersion": "1.4.1.3",
-      "ApplicableVersion": "any",
-      "DalamudApiLevel": "9",
-      "Changelog": "crafting fix",
-      "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png"
     }
 ]
