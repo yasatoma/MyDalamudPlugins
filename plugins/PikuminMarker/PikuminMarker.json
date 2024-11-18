@@ -5,7 +5,7 @@
   "AssemblyVersion": "0.0.0.6",
   "Description": "Puts a marker on the specified player. If the target player travels to DC, the internal ID will change and the marker will be invalid.",
   "ApplicableVersion": "2024.11.18.0000.0000",
-  "Icon": "icon.png",
+  "Icon": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/Icon.png",
   "Tags": [
     "marker",
     "colors"
