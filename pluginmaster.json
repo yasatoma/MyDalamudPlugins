@@ -52,7 +52,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
         "LoadPriority": 0,
-        "IconUrl": "",
+        "IconUrl": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/LeveDelivery/Icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/LeveDelivery/latest.zip",
         "IsHide": false,
@@ -60,6 +60,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/LeveDelivery/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/LeveDelivery/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1741416427"
+        "LastUpdate": "1741420420"
     }
 ]
