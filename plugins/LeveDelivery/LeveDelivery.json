@@ -1,0 +1,23 @@
+{
+  "Author": "yasatoma",
+  "Name": "LeveDelivery",
+  "InternalName": "LeveDelivery",
+  "AssemblyVersion": "0.0.0.7",
+  "Description": "A plugin that automatically accepts and delivers leves.",
+  "ApplicableVersion": "2025.03.05.0000.0000",
+  "Tags": [
+    "ui",
+    "crafter"
+  ],
+  "CategoryTags": [
+    "ui",
+    "crafter"
+  ],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "LeveDelivery.",
+  "AcceptsFeedback": true
+}

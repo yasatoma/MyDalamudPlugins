@@ -41,4 +41,25 @@
         "DownloadCount": 0,
         "LastUpdate": "1731895850"
     }
+    {
+        "Author": "yasatoma",
+        "Name": "LeveDelivery",
+        "Punchline": "Leve Automation.",
+        "Description": "A plugin that automatically accepts and delivers leves.",
+        "InternalName": "LeveDelivery",
+        "AssemblyVersion": "0.0.0.7",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 11,
+        "LoadPriority": 0,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/LeveDelivery/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/LeveDelivery/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/LeveDelivery/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1741415758"
+    }
 ]
