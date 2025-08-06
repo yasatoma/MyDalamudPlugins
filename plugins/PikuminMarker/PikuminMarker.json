@@ -2,9 +2,9 @@
   "Author": "yasatoma",
   "Name": "PikuminMarker",
   "InternalName": "PikuminMarker",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.1.0.0",
   "Description": "Puts a marker on the specified player. If the target player travels to DC, the internal ID will change and the marker will be invalid.",
-  "ApplicableVersion": "2024.11.18.0000.0000",
+  "ApplicableVersion": "2025.08.06.0000.0000",
   "Tags": [
     "marker",
     "ui",
@@ -15,7 +15,7 @@
     "ui",
     "combat"
   ],
-  "DalamudApiLevel": 12,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
