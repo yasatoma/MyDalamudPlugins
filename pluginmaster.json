@@ -1,27 +1,6 @@
 [
     {
         "Author": "yasatoma",
-        "Name": "NameplateColor",
-        "Punchline": "Nameplate Color Change.",
-        "Description": "Change Nameplate's color to favorite color per role, and hide FreeCompanyName.",
-        "InternalName": "NameplateColor",
-        "AssemblyVersion": "0.0.1.1",
-        "RepoUrl": "https://github.com/yasatoma/NameplateColor",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/Icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/NameplateColor/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1673478000"
-    },
-    {
-        "Author": "yasatoma",
         "Name": "PikuminMarker",
         "Punchline": "Add Marker for Pikumin.",
         "Description": "Puts a marker on the specified player. If the target player travels to DC, the internal ID will change and the marker will be invalid.",
@@ -50,7 +29,7 @@
         "AssemblyVersion": "0.9.0.3",
         "RepoUrl": "",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/LeveDelivery/Icon.png",
         "ImageUrls": [],
@@ -60,6 +39,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/LeveDelivery/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/LeveDelivery/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1743038055"
+        "LastUpdate": "1755093612"
     }
 ]
