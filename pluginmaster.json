@@ -5,10 +5,10 @@
         "Punchline": "Add Marker for Pikumin.",
         "Description": "Puts a marker on the specified player. If the target player travels to DC, the internal ID will change and the marker will be invalid.",
         "InternalName": "PikuminMarker",
-        "AssemblyVersion": "1.2.0.0",
+        "AssemblyVersion": "1.3.0.0",
         "RepoUrl": "https://github.com/yasatoma/PikuminMarker",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/Icon.png",
         "ImageUrls": [],
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1761550062"
+        "LastUpdate": "1766107051"
     },
     {
         "Author": "yasatoma",
