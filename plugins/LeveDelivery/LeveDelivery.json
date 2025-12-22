@@ -2,7 +2,7 @@
   "Author": "yasatoma",
   "Name": "LeveDelivery",
   "InternalName": "LeveDelivery",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.2.0.0",
   "Description": "A plugin that automatically accepts and delivers leves.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -13,7 +13,7 @@
     "ui",
     "crafter"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
